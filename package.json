@@ -1,0 +1,14 @@
+{
+  "name": "topsysml",
+  "version": "0.0.1",
+  "description": "State Manager Library",
+  "main": "topsy.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Igor Dzimbeg",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
